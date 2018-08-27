@@ -1,4 +1,5 @@
 # hello-world
 My introduction to Github repos
-myName = Chris
-print('Hello', myName, ' it is nice to meet you.')
+myName = input('What is your name?\n>>>')
+
+print('It is nice to meet you ' + myName, ' + how are you doing today?')
